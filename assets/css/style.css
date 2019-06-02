@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: tan;
+}
+
+
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 34px;
+  text-align: center;
+}
+
+#game {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+border:dashed black 2px;
+}
